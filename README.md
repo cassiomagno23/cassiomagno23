@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT, PHP
 - 📫 How to reach me: @cassio_magno
 
 <div align="center">
@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiomagno23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg
+  <img align="center" alt="Cassio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Cassio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cassio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cassio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
